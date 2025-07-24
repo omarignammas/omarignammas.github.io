@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.98b3ffc7.css",
-    "main.js": "/static/js/main.b4ca2fd5.js",
+    "main.css": "/static/css/main.155cf28e.css",
+    "main.js": "/static/js/main.c7bbac40.js",
     "static/media/BgScreenComprissed.mp4": "/static/media/BgScreenComprissed.9b980f13392e4102de12.mp4",
     "static/media/yourturn.png": "/static/media/yourturn.7e3f9c88f6f301f02706.png",
     "static/media/GitexAfrica.png": "/static/media/GitexAfrica.98d1ba143567c983f418.png",
@@ -24,11 +24,11 @@
     "static/media/Nabd.jpeg": "/static/media/Nabd.56f2730a455a6f23f5a7.jpeg",
     "static/media/linkedin.png": "/static/media/linkedin.032cf8a63be2f0f4d425.png",
     "index.html": "/index.html",
-    "main.98b3ffc7.css.map": "/static/css/main.98b3ffc7.css.map",
-    "main.b4ca2fd5.js.map": "/static/js/main.b4ca2fd5.js.map"
+    "main.155cf28e.css.map": "/static/css/main.155cf28e.css.map",
+    "main.c7bbac40.js.map": "/static/js/main.c7bbac40.js.map"
   },
   "entrypoints": [
-    "static/css/main.98b3ffc7.css",
-    "static/js/main.b4ca2fd5.js"
+    "static/css/main.155cf28e.css",
+    "static/js/main.c7bbac40.js"
   ]
 }
