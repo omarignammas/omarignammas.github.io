@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.781e4fd0.css",
+    "main.js": "/static/js/main.cc5cbc85.js",
+    "static/media/BgScreenComprissed.mp4": "/static/media/BgScreenComprissed.9b980f13392e4102de12.mp4",
+    "static/media/yourturn.png": "/static/media/yourturn.7e3f9c88f6f301f02706.png",
+    "static/media/GitexAfrica.png": "/static/media/GitexAfrica.98d1ba143567c983f418.png",
+    "static/media/HomeLandingPage.png": "/static/media/HomeLandingPage.f8e5fe7a17703d1a7196.png",
+    "static/media/portofolio.png": "/static/media/portofolio.4580ecec569d802989ef.png",
+    "static/media/bgPoster.png": "/static/media/bgPoster.0000b934c5d05785f1a8.png",
+    "static/media/PublicSpeaker.png": "/static/media/PublicSpeaker.c16f2432affd408ec752.png",
+    "static/media/ignitegym.png": "/static/media/ignitegym.0fa8d44569044191b346.png",
+    "static/media/hospitalmanagement.png": "/static/media/hospitalmanagement.8df8a9041efa36acf064.png",
+    "static/media/SmatrbinCompetition.PNG": "/static/media/SmatrbinCompetition.7fe9879241a308311be9.PNG",
+    "static/media/dikrcompiler.png": "/static/media/dikrcompiler.a77736d64e96eed587ae.png",
+    "static/media/profile.jpeg": "/static/media/profile.5965bf2576218eb2624f.jpeg",
+    "static/media/uni.jpeg": "/static/media/uni.ab98821a822695de5048.jpeg",
+    "static/media/code.webp": "/static/media/code.c1102ed7d1823fb291b2.webp",
+    "static/media/lead.jpeg": "/static/media/lead.3f91b6e553abd30e0255.jpeg",
+    "static/media/reactbest.jpeg": "/static/media/reactbest.d76ca1566924dcbe29e4.jpeg",
+    "static/media/github.png": "/static/media/github.44eee0c4a6c25b0d7347.png",
+    "static/media/instagram.png": "/static/media/instagram.75e0546a6b5abe4c0506.png",
+    "static/media/espress.jpeg": "/static/media/espress.607758ebb90cc85ab59a.jpeg",
+    "static/media/Nabd.jpeg": "/static/media/Nabd.56f2730a455a6f23f5a7.jpeg",
+    "static/media/linkedin.png": "/static/media/linkedin.032cf8a63be2f0f4d425.png",
+    "index.html": "/index.html",
+    "main.781e4fd0.css.map": "/static/css/main.781e4fd0.css.map",
+    "main.cc5cbc85.js.map": "/static/js/main.cc5cbc85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.781e4fd0.css",
+    "static/js/main.cc5cbc85.js"
+  ]
+}
